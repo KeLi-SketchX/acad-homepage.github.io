@@ -10,7 +10,7 @@ title                    : "Ke Li"
 description              : " Associate Professor at School of Artificial Intelligence in BUPT. "
 repository               : "KeLi-SketchX/acad-homepage.github.io"
 baseurl                  : "/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+#google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
